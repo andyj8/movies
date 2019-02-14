@@ -1,0 +1,13 @@
+version: '2'
+services:
+    movie_apps_middleware:
+        build:
+            dockerfile: Dockerfile
+            context: .
+        image: promotions:5.5
+        volumes:
+            - ./nginx.conf:/etc/nginx/sites-available/default
+            - ./php-fpm.conf:/etc/php/5.5/fpm/pool.d/www.conf
+            - ./supervisord.conf:/etc/supervisor/conf.d/supervisord.conf
+            - ../:/var/www
+        working_dir: /var/www

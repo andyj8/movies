@@ -1,0 +1,894 @@
+---- ENTS -----
+<!-- SBUK-Terms -->
+<!-- IMPORTANT: Edit HTML from repo and paste in -->
+
+<div data-view="patchbay">
+	<a class="named-anchor" name="top"></a>
+	<h1>
+		Sainsbury&rsquo;s Entertainment Video On Demand
+		<span class="text-nowrap">Terms and Conditions</span>
+	</h1>
+	<p>
+		Terms and Conditions for the use of movies.sainsburysentertainment.co.uk (<strong>our site</strong>) and the purchase
+		of a licence to allow the playing of Video on Demand content on certain authorised devices. <br /> <br /> This page
+		(together with the documents referred to on it) tells you the Terms and Conditions on which we supply any of the
+		<strong>movie and TV Video on Demand content</strong> (<strong>VOD Content</strong>) and if available their related
+		cover art listed on our site and our Sainsbury&rsquo;s branded on-device applications (<strong>Application(s)</strong>)
+		(together <strong>our service</strong>) to you. Please read these Terms and Conditions carefully before ordering any VOD
+		Content Licence (as defined below in clause 2.6) from our service. You should understand that by ordering any VOD Content
+		Licence, you agree to be bound by these Terms and Conditions. <br /> You should make a copy of these Terms and Conditions
+		for future reference.
+	</p>
+	<p>To view the Terms and Conditions for the purchase of <strong>MP3 music content (Music Content)</strong>, please click
+		<a href="http://www.sainsburysentertainment.co.uk/en/Terms-and-Conditions/page.html?page=terms">here.</a>
+	</p>
+	<p>&nbsp;</p>
+
+	<a class="named-anchor" name="clause-1"></a>
+	<h2 class="h4 text-bold-max">1. INFORMATION ABOUT US</h2>
+	<p>
+		<a href="http://www.sainsburysentertainment.co.uk"><strong>movies.sainsburysentertainment.co.uk</strong></a>
+		and the Applications are operated by Sainsbury&rsquo;s Supermarkets Ltd (<strong>we, us, our</strong>) registered in
+		England and Wales under company number 3261722 and with our registered office and main trading address at 33 Holborn,
+		London, EC1N 2HT.
+	</p>
+	<p><a href="#top">Return to the top of page</a></p>
+
+	<a class="named-anchor" name="clause-2"></a>
+	<h2 class="h4 text-bold-max">2. HOW THE CONTRACT IS FORMED BETWEEN YOU AND US</h2>
+
+	<a class="named-anchor" name="clause-2-1"></a>
+	<p>
+		<strong>2.1</strong> Our service is operated by Sainsbury&rsquo;s Supermarkets Ltd, and by placing an order on our
+		service you are contracting directly with Sainsbury&rsquo;s Supermarkets Ltd.
+	</p>
+
+	<a class="named-anchor" name="clause-2-2"></a>
+	<p>
+		<strong>2.2</strong> During the checkout process by clicking on the &lsquo;Complete Purchase&rsquo; button you are
+		agreeing to these Terms and Conditions.
+	</p>
+
+	<a class="named-anchor" name="clause-2-3"></a>
+	<p>
+		<strong>2.3</strong> When purchasing VOD Content available for immediate download or streaming, you confirm,
+		<strong>by clicking on the &lsquo;Complete Purchase&rsquo; button that the VOD Content available for immediate download or
+		streaming should be downloaded or streamed immediately and agree that your rights under the Consumer Contracts (Information,
+		Cancellation and Additional Charges) Regulations 2013 to cancel the order within 14 days, (the &lsquo;Cooling Off Period&rsquo;)
+		shall not apply</strong>. If you do not wish to download or stream VOD Content available for immediate download or streaming
+		immediately then we regret that we are unable to delay such download or streaming until the 14 day Cooling Off Period has expired
+		and you should not use our service. This does not affect your statutory rights or any rights you may have under our
+		<a href="https://movies.sainsburysentertainment.co.uk/refund">Refund Policy</a>.
+	</p>
+
+	<a class="named-anchor" name="clause-2-4"></a>
+	<p>
+		<strong>2.4</strong> When purchasing VOD Content in advance of its availability for immediate download or streaming,
+		(<strong>Pre-Order</strong>) you confirm by clicking on the &lsquo;Complete Purchase&rsquo; button that your rights under the
+		Consumer Contracts (Information, Cancellation and Additional Charges) Regulations 2013 to cancel the contract within 14 days
+		starting on the date of order will run concurrently with the period between order and delivery of the VOD Content. You may cancel
+		your order by entering &lsquo;My Account&rsquo; and cancelling the order on the &lsquo;Pre-Orders&rsquo; page at any time during
+		the period between order and delivery of the VOD Content. Where the Pre-Ordered VOD Content is available for download or streaming
+		in advance of the expiry of the 14 day Cooling Off Period, you agree, <strong>by clicking on the &lsquo;Complete Purchase button
+		that any remaining Cooling Off rights under the Consumer Contracts (Information, Cancellation and Additional Charges) Regulations
+		2013 will not apply and agree that the VOD Content should be immediately downloaded or streamed as soon as it is available</strong>.
+		If you do not agree then you should not use our service. This does not affect your statutory rights or any rights you may have under
+		our <a href="https://movies.sainsburysentertainment.co.uk/refund">Refund Policy</a>.
+	</p>
+
+	<a class="named-anchor" name="clause-2-5"></a>
+	<p>
+		<strong>2.5</strong> Each order by you constitutes an offer to us to buy a VOD Content Licence or Licences. Each order for a VOD Content
+		Licence made by you through our service is subject to acceptance by us. We may choose not to accept your order for any reason but will
+		inform you if we do choose not to accept your order. You will make your order when you click on the &lsquo;Complete Purchase&rsquo;
+		button during the checkout process. The contract between us (<strong>Contract</strong>) will only be formed when we accept your order
+		for the VOD Content Licence or Licences at the point after you have clicked the &lsquo;Complete Purchase&rsquo; button AND you have been
+		forwarded to a page telling you &ldquo;Checkout Complete!&rdquo;. A confirmation email will also be sent to your registered email address.
+	</p>
+
+	<a class="named-anchor" name="clause-2-6"></a>
+
+	<p>
+		<strong>2.6</strong> Once the Contract is made we will grant you the non-exclusive and non-transferable right to use the VOD Content to
+		which the Contract applies for your own personal and non-commercial use only, strictly subject to these Terms and Conditions, in particular
+		clause 8 below, and in accordance with the usage rules at clause 6.8 below. This right we grant to you is the <strong>VOD Content Licence</strong>.
+	</p>
+
+	<p><a href="#top">Return to the top of page</a></p>
+
+	<a class="named-anchor" name="clause-3"></a>
+	<h2 class="h4 text-bold-max">3. SERVICE AVAILABILITY</h2>
+	<p>
+		Our service is only intended for use by people resident in the United Kingdom. We do not accept orders from individuals outside of the
+		United Kingdom.
+	</p>
+	<p><a href="#top">Return to the top of page</a></p>
+
+	<a class="named-anchor" name="clause-4"></a>
+	<h2 class="h4 text-bold-max">4. YOUR STATUS</h2>
+
+	<a class="named-anchor" name="clause-4-1"></a>
+	<p>
+		<strong>4.1</strong>
+		By registering with us and placing an order through our service, you warrant that:
+		<ol style="list-style: lower-alpha">
+			<li>You are legally capable of entering into binding contracts;</li>
+			<li>You are <strong>at least 18 years old</strong>;</li>
+			<li>You are resident in the United Kingdom and are placing an order on our service from the United Kingdom;</li>
+			<li>
+				All the information you provide to us is true, accurate, current and complete in all respects including your name email address and
+				any other details we may request in order to process your order or resolve any customer service issues; and
+			</li>
+			<li>You will inform us immediately of any changes to the information you supplied when registering by updating your personal details;</li>
+			<li>
+				You will use the VOD Content you obtain from us under the VOD Content Licence in accordance with these Terms and Conditions
+				and only for lawful purposes and in a lawful manner.
+			</li>
+		</ol>
+	</p>
+
+	<a class="named-anchor" name="clause-4-2"></a>
+	<p>
+		<strong>4.2</strong> We reserve the right to:
+		<ol style="list-style: lower-alpha">
+			<li>Decline a new customer registration or suspend a customer's account at any time and at our sole discretion.</li>
+			<li>Terminate, at our absolute discretion, your access to all or part of the services with or without notice.</li>
+			<li>Discontinue, at our absolute discretion, our service, or any part thereof, at any time, with or without notice.</li>
+		</ol>
+	</p>
+
+	<a class="named-anchor" name="clause-4-3"></a>
+	<p>
+		<strong>4.3</strong> Registration data and certain other information about you is subject to our <strong>Privacy Policy</strong>.
+		We recommend that you read our
+		<a href="https://movies.sainsburysentertainment.co.uk/privacy">Privacy Policy</a>
+		before you accept these Terms and Conditions.
+	</p>
+	<p><a href="#top">Return to the top of page</a></p>
+
+	<a class="named-anchor" name="clause-5"></a>
+	<h2 class="h4 text-bold-max">5. OUR STATUS</h2>
+	<p>
+		We may also provide links on our service to the websites of other companies, whether affiliated with us or not. We cannot give any
+		undertaking that products you purchase from third party sellers through our service, or from companies to whose website we have
+		provided a link on our service, will be of satisfactory quality, and any such warranties are DISCLAIMED by us absolutely. This
+		DISCLAIMER does not affect your statutory rights against the third party seller.
+	</p>
+	<p><a href="#top">Return to the top of page</a></p>
+
+	<a class="named-anchor" name="clause-6"></a>
+	<h2 class="h4 text-bold-max">6. DELIVERY OF CONTENT, VIEWING REQUIREMENTS AND USAGE RULES</h2>
+
+	<a class="named-anchor" name="clause-6-1"></a>
+	<p>
+		<strong>6.1</strong> Once your order has been accepted and your payment processed successfully you will be able to access the VOD
+		Content for which you have purchased a VOD Content Licence.
+	</p>
+
+	<a class="named-anchor" name="clause-6-2"></a>
+	<p>
+		<strong>6.2</strong> in order to download VOD Content you will need to download via an Authorised Device (as defined in clause 6.3 below)
+		connected to the Internet. Alternatively you will be able to view the VOD Content by streaming via your library page on our site or via
+		any Authorised Device.
+	</p>
+
+	<a class="named-anchor" name="clause-6-3"></a>
+	<p>
+		<strong>6.3 </strong>In order to view the VOD Content you must either (i) register a device to our service, this could include PCs, TVs,
+		tablets, games consoles or smartphones, the devices that can be registered are listed
+		<a href="https://movies.sainsburysentertainment.co.uk/devices">here</a>
+		and each such device registered by you will be deemed an <strong>Authorised Device</strong>; or (ii) stream via your library page on our
+		site. You should regularly check this list as the Authorised Devices may change from time to time. The list will also tell you such things
+		as which Authorised Devices can play High Definition (HD) and/or Standard Definition (SD) VOD Content, which Authorised Devices can either
+		stream and/or download VOD Content and which Authorised Devices are transactional and non-transactional (i.e. whether you can purchase a
+		VOD Content Licence from an Authorised Device or just play the VOD Content on an Authorised Device).
+	</p>
+
+	<a class="named-anchor" name="clause-6-4"></a>
+	<p>
+		<strong>6.4</strong> You will only be able to view VOD Content either on an Authorised Device or by streaming via your library page
+		on our site.
+	</p>
+
+	<a class="named-anchor" name="clause-6-5"></a>
+	<p>
+		<strong>6.5</strong> To view VOD Content on certain Authorised Devices you may also have to download the Application and agree to the end
+		user licence agreement for the Application.
+	</p>
+
+	<a class="named-anchor" name="clause-6-6"></a>
+	<p>
+		<strong>6.6</strong> You will also need to ensure that you have an Internet connection in order to stream or download VOD Content,
+		recommended connection speeds can be found on our
+		<a href="https://sainsburysentertainment.zendesk.com/hc/en-us/sections/200401865-FAQ" target="_blank">Video on Demand FAQs page</a>.
+	</p>
+
+	<a class="named-anchor" name="clause-6-7"></a>
+	<p>
+		<strong>6.7</strong> If you purchase HD VOD Content in most cases you will be able to view an SD version on an Authorised Device that
+		is not capable of playing an HD version but is capable of playing an SD version.
+	</p>
+
+	<a class="named-anchor" name="clause-6-8"></a>
+	<p>
+		<strong>6.8 Usage Rules for &ldquo;Rent&rdquo; VOD Content:</strong>
+		<ul>
+			<li>You must be within the United Kingdom to purchase a VOD Content Licence to &lsquo;Rent&rsquo; VOD Content.</li>
+			<li>You must be within the United Kingdom to download or stream VOD Content.</li>
+			<li>
+				Each purchase will provide you with 1 (one) viewing licence to either download or stream the VOD Content to an
+				<a href="https://movies.sainsburysentertainment.co.uk/devices">Authorised Device</a>
+				(<strong>Viewing Licence</strong>). <strong>PLEASE NOTE if you download the VOD Content to an Authorised Device you will no longer be
+				able to stream the VOD Content.</strong>
+			</li>
+			<li>
+				So long as you haven&rsquo;t downloaded the VOD Content you may stream the VOD Content an unlimited number of times to an Authorised
+				Device within the Viewing Period (defined below). <strong>PLEASE NOTE you may not stream to more than one Authorised Device at the
+				same time.</strong>
+			</li>
+			<li>The <strong>Viewing Period</strong> of 48 hours will commence as soon as you start to playback the VOD Content.</li>
+			<li>
+				You have a 30 day <strong>Access Period</strong> in which to start and complete the 48 hour playback (i.e. the Viewing Period).
+				You will not be able to view the VOD Content after the end of the Access Period, even if there is time remaining in the Viewing Period.
+			</li>
+			<li>
+				The Access Period begins at the time the transaction occurs and ends 30 days later (e.g. if VOD Content was rented at 7:00 p.m. on
+				October 1, playback must end by 6:59 p.m. on October 31).
+			</li>
+			<li>Your right to view rented VOD Content will expire at the earlier of the end of the Access Period or end of the Viewing Period.</li>
+			<li>If you start a stream on one Authorised Device, then stop, you may resume the stream on a different Authorised Device.</li>
+			<li>The VOD Content will be rendered unplayable at the end of the Viewing Period or Access Period, whichever comes earlier, and will be deleted.</li>
+		</ul>
+	</p>
+	<p>
+		<strong>Usage Rules for &ldquo;Buy&rdquo; VOD Content: </strong>
+		<ul>
+			<li>You must be within the United Kingdom to purchase a VOD Content Licence to &lsquo;Buy&rsquo; VOD Content.</li>
+			<li>You must be within the United Kingdom to download or stream VOD Content.</li>
+			<li>
+				Each purchase will provide you with 5 (five) Viewing Licences to either stream or download the VOD Content to an Authorised Device.
+				<strong>PLEASE NOTE if you download the VOD Content 5 (five) times you will no longer be able to stream the VOD Content.</strong>
+				We recommend you reserve at least 1 (one) Viewing Licence to ensure that you may continue to stream VOD Content to an
+				Authorised Device.
+			</li>
+			<li>When you download to an Authorised Device you use 1 (one) Viewing Licence permanently.</li>
+			<li>
+				When you stream VOD Content you are only temporarily using a Viewing Licence and on completion of the stream that Viewing Licence
+				will renew (i.e. you will not permanently use one of your Viewing Licences when you stream VOD Content).
+			</li>
+			<li>You may only stream VOD Content on 2 (two) Authorised Devices at any one time (so long as there are 2 (two) Viewing Licences remaining).</li>
+			<li>If you start a stream on one Authorised Device, then stop, you may resume the stream on a different Authorised Device.</li>
+			<li>
+				For <strong><u>Ultraviolet VOD Content only</u></strong> the consumption of your Viewing Licences on our service will not affect any
+				licences you may have for any non-Sainsbury&rsquo;s Ultraviolet services. In addition you will need to link your Sainsbury&rsquo;s
+				account to your Ultraviolet account and agree to the
+				<a href="https://uvvu.com/en/gb/terms-use" target="_blank">DECE Terms and Conditions</a> and
+				<a href="https://uvvu.com/en/gb/privacy-policy" target="_blank">Privacy Policy</a>
+			</li>
+		</ul>
+	</p>
+
+	<a class="named-anchor" name="clause-6-12"></a>
+	<p>
+		<strong>6.12</strong> In the event of any problems with downloading the VOD Content you should firstly review the
+		<a href="https://sainsburysentertainment.zendesk.com/hc/en-us/sections/200401865-FAQ" target="_blank">Video on Demand FAQs</a>
+		and if you cannot find an answer there you should contact customer support at
+		<a href="mailto:customerservices@sainsburysentertainment.co.uk">customerservices@sainsburysentertainment.co.uk</a>
+	</p>
+	<p><a href="#top">Return to the top of page</a></p>
+
+	<a class="named-anchor" name="clause-7"></a>
+	<h2 class="h4 text-bold-max">7. CONSUMER RIGHTS</h2>
+
+	<a class="named-anchor" name="clause-7-1"></a>
+	<p>
+		<strong>7.1</strong> We reserve the right to withdraw VOD Content at any time from our service and we will not be liable to you for
+		withdrawing any VOD Content.
+	</p>
+
+	<a class="named-anchor" name="clause-7-2"></a>
+	<p>
+		<strong>7.2</strong> In some circumstances we may no longer have the necessary rights from our licensors to support the streaming or
+		downloading of an item of VOD Content, e.g. if one of our licensors, such as a movie studio, no longer has the rights in a particular
+		item of VOD Content. In such a case we will, if our licensor allows us to, contact you by email so that you can download the item of
+		VOD Content (this does not apply to rented VOD Content) to an appropriate Authorised Device provided that the relevant usage rules are
+		intact. If you have already downloaded an item of VOD Content to an Authorised Device prior to a withdrawal you will still be allowed
+		to view that item of VOD Content on that Authorised Device (this does not apply to rented VOD Content) but you will not be able to
+		download it or stream it again other than if we have obtained the prior approval of the relevant studio and have notified you of
+		such in writing.
+	</p>
+
+	<a class="named-anchor" name="clause-7-3"></a>
+	<p>
+		<strong>7.3</strong> Provided an item of VOD Content has not been withdrawn from our service as envisaged in clauses 7.1 and 7.2
+		above we will do our best to ensure that you can download and stream an item of VOD Content, as long as the relevant usage rules
+		are intact, for a minimum of two years following the purchase of the relevant VOD Content Licence (this does not apply to rented
+		VOD Content).
+	</p>
+
+	<a class="named-anchor" name="clause-7-4"></a>
+	<p>
+		<strong>7.4</strong> In the event that VOD Content is withdrawn after your purchase of a VOD Content Licence but prior to your
+		download of it (or streaming in the case of a rental VOD Content), your sole remedy will be a refund of the price paid for such
+		VOD Content Licence. We will not make any refunds for VOD Content where you have either already downloaded a playable copy to an
+		Authorised Device, or in the case of a rental VOD Content where the viewing period has expired.
+	</p>
+	<p><a href="#top">Return to the top of page</a></p>
+
+	<a class="named-anchor" name="clause-8"></a>
+	<h2 class="h4 text-bold-max">8. YOUR RIGHTS TO USE CONTENT AND INTELLECTUAL PROPERTY RIGHTS</h2>
+
+	<a class="named-anchor" name="clause-8-1"></a>
+	<p>
+		<strong>8.1</strong> You acknowledge and agree that all copyright, trademarks and all other intellectual property rights in all
+		material subsisting in our service, its design, structure, graphics, video, music and audio content and all software and source
+		codes connected with and comprised in our service including for avoidance of doubt the VOD Content, shall remain at all times
+		vested in us or our licensors. You are permitted to use the VOD Content only as expressly authorised by us, and in particular
+		in accordance with the usage rules in clause 6 above.
+	</p>
+
+	<a class="named-anchor" name="clause-8-2"></a>
+	<p>
+		<strong>8.2</strong> You acknowledge and agree that VOD Content comprised within our service is made available under the VOD
+		Content Licence for your non-exclusive, non-transferable, personal (although you may watch VOD Content with friends and
+		family), non-commercial use only and VOD Content can only be downloaded and/or streamed by you if you are located
+		within the United Kingdom however once you have downloaded VOD Content to an Authorised Device you may, subject to these Terms
+		and Conditions (including for the avoidance of doubt the usage rules in clause 6 above), play the VOD Content on that Authorised
+		Device outside of the United Kingdom.
+	</p>
+
+	<a class="named-anchor" name="clause-8-3"></a>
+	<p>
+		<strong>8.3</strong> Except as expressly set out above, without limitation, you may not do, or allow third parties to do, any
+		of the following without prior written permission from us: broadcast, communicate to the public, copy, redistribute, reproduce,
+		rent, sub-license, synchronize with a moving image, sell, transmit, modify, adapt, create derivative works of or in any way
+		commercially exploit any of the VOD Content; remove the copyright, trade mark notice or other rights management or identifier
+		information from any copies of the VOD Content; deep link to or frame any of the VOD Content; interfere with, or in any other
+		way circumvent any copy protection mechanism utilised by us in providing VOD Content; or use the VOD Content for any illegal
+		activity or illegal purpose in any way.
+	</p>
+
+	<a class="named-anchor" name="clause-8-4"></a>
+	<p>
+		<strong>8.4</strong> All rights not expressly granted herein are expressly reserved by us and our licensors. You do not acquire
+		any ownership rights in any VOD Content that you have acquired under a VOD Content Licence from our service.
+	</p>
+
+	<a class="named-anchor" name="clause-8-5"></a>
+	<p>
+		<strong>8.5</strong> You acknowledge that the VOD Content contains intellectual property rights belonging to and/or controlled
+		by third parties which are protected by law.
+	</p>
+
+	<a class="named-anchor" name="clause-8-6"></a>
+	<p>
+		<strong>8.6</strong> The owners and/or controllers of the VOD Content, for example the movie studios, distributors, aggregators,
+		TV studios and collections societies who are our licensors, are intended as third party beneficiaries under our Contract with
+		you and may enforce this clause 8 of the Terms and Conditions against you.
+	</p>
+
+	<a class="named-anchor" name="clause-8-7"></a>
+	<p>
+		<strong>8.7</strong> You acknowledge and agree that the VOD Content is protected by copy protection technologies commonly known
+		digital rights management (DRM) and that you will not do anything to remove, bypass, circumvent, neutralise, or modify any of
+		the DRM and technological protection measures used for the VOD Content.
+	</p>
+
+	<a class="named-anchor" name="clause-8-8"></a>
+	<p>
+		<strong>8.8</strong> In the event that you fail to comply with any of these Terms and Conditions the rights granted to you by
+		us concerning your use of the VOD Content will automatically terminate without notice and you must immediately cease all use
+		of the VOD Content and any copies thereof. Furthermore we will be entitled to restrict your access to our service and VOD Content,
+		where applicable, without notice.
+	</p>
+	<p><a href="#top">Return to the top of page</a></p>
+
+	<a class="named-anchor" name="clause-9"></a>
+	<h2 class="h4 text-bold-max">9. PRICE AND PAYMENT</h2>
+
+	<a class="named-anchor" name="clause-9-1"></a>
+	<p>
+		<strong>9.1</strong> The price of any VOD Content Licence will be as quoted on our service from time to time, except in cases of
+		obvious error, and will be in &pound; Sterling, we reserve the right to amend the price in cases of obvious error.
+	</p>
+
+	<a class="named-anchor" name="clause-9-2"></a>
+	<p>
+		<strong>9.2</strong> When prices are updated on our site from time to time there may be a short delay in updating the price for the
+		equivalent VOD Content on the Applications. You will be advised of any price difference before completing any purchase on the
+		Applications and will be given the opportunity of not proceeding with the purchase.
+	</p>
+
+	<a class="named-anchor" name="clause-9-3"></a>
+	<p>
+		<strong>9.3</strong> These prices include VAT. The prices on our service reflect the current rate of VAT that you will be charged.
+		If you require a VAT invoice for a VOD Content Licence purchased by you please contact customer services.
+	</p>
+
+	<a class="named-anchor" name="clause-9-4"></a>
+	<p>
+		<strong>9.4</strong> Prices are liable to change at any time, but changes will not affect orders that we have accepted unless there
+		is a Pre-Order Price Promise.
+	</p>
+
+	<a class="named-anchor" name="clause-9-5"></a>
+	<p>
+		<strong>9.5</strong> For some VOD Content it may be possible to pre-order VOD Content Licences and there may be an additional
+		discount (<strong>Pre-Order Price Promise</strong>) to which you are entitled. You will be notified by email on the VOD Content's
+		release date of any Pre-Order Price Promise discount and your credit card, debit card or account credit will be charged the price
+		of the VOD Content Licence LESS the Pre-Order Price Promise discount.
+	</p>
+
+	<a class="named-anchor" name="clause-9-6"></a>
+	<p>
+		<strong>9.6</strong> Our service contains a large amount of VOD Content and it is always possible that, despite our best efforts,
+		some of the VOD Content listed on our service may be incorrectly priced.
+	</p>
+
+	<a class="named-anchor" name="clause-9-7"></a>
+	<p>
+		<strong>9.7</strong> The prices quoted on our service apply only to VOD Content Licences sold via our service. Where the same content
+		is available in Sainsbury's stores or via Sainsbury's grocery website different prices may apply.
+	</p>
+
+	<a class="named-anchor" name="clause-9-8"></a>
+	<p>
+		<strong>9.8</strong> Payment for all VOD Content must be by credit or debit card or by using a Sainsbury&rsquo;s Entertainment eVoucher
+		in accordance with clause 12 (in the form of account credit) below. We accept payment with MasterCard and Visa cards through the BrainTree
+		portal. <strong>No debit or credit cards can be used
+		on our service for cashback purposes even if they are accepted on other Sainsburys sites or in store.</strong>
+	</p>
+	<p>
+		You can register a new payment card at any time, but the card associated with a given order cannot be changed once you have checked out.
+	</p>
+
+	<a class="named-anchor" name="clause-9-9"></a>
+	<p>
+		<strong>9.9</strong> Your credit card, debit card or account credit will be charged at the same time as we accept your order.
+		HOWEVER in the case of a PRE-ORDERED VOD Content Licence your credit card, debit card or account credit will be charged the
+		VOD Content Licence price less any applicable Pre-Order Price Promise immediately prior to your being advised by email that
+		the VOD Content is available for access by you.
+	</p>
+
+	<a class="named-anchor" name="clause-9-10"></a>
+	<p>
+		<strong>9.10</strong> To ensure that your credit or debit card is not being used without your consent, we may validate name,
+		address and other personal information supplied by you during the order process against appropriate third party databases.
+		By accepting these Terms and Conditions you consent to such checks being made. In performing these checks personal information
+		provided by you may be disclosed to a registered Credit Reference Agency which may keep a record of that information. This
+		is done only to confirm your identity, a credit check is not performed and your credit rating will be unaffected.
+	</p>
+
+	<a class="named-anchor" name="clause-9-11"></a>
+	<p>
+		<strong>9.11</strong> Nectar points cannot be used as payment for all or part of any order.
+	</p>
+
+	<a class="named-anchor" name="clause-9-12"></a>
+	<p>
+		<strong>9.12</strong> Coupons issued at Sainsbury's store tills are not redeemable on our service unless expressly stated.
+	</p>
+
+	<a class="named-anchor" name="clause-9-14"></a>
+	<p>
+		<strong>9.13</strong> Sainsbury&rsquo;s gift vouchers and gift cards may NOT be used to purchase VOD Content Licences from
+		our service. Only Sainsbury's Entertainment eVouchers, as defined below in clause 12, can be used to purchase VOD Content
+		Licences.
+	</p>
+	<p><a href="#top">Return to the top of page</a></p>
+
+	<a class="named-anchor" name="clause-10"></a>
+	<h2 class="h4 text-bold-max">10. CANCELLATION AND RETURNS</h2>
+
+	<a class="named-anchor" name="clause-10-1"></a>
+	<p>
+		<strong>10.1</strong> Due to the nature of digital content (such as VOD Content) and the fact that you are given immediate access
+		to the VOD Content through the VOD Content Licence <strong>you will NOT be able to cancel the order or return the VOD Content
+		once you have completed your order by clicking on the &lsquo;Complete Purchase&rsquo; button during the checkout process</strong>.
+		This will not apply to pre-ordered VOD Content Licences, you will be able to cancel a pre-order for a VOD Content Licence at any
+		time prior to the release date of the relevant VOD Content (see clause 2.4 above).
+	</p>
+
+	<a class="named-anchor" name="clause-10-2"></a>
+	<p>
+		<strong>10.2</strong> You are responsible for ensuring that you have carefully checked your order prior to clicking on the
+		&lsquo;Complete Purchase&rsquo; button.
+	</p>
+
+	<a class="named-anchor" name="clause-10-3"></a>
+	<p>
+		<strong>10.3</strong> In circumstances where VOD Content has been downloaded to a fully functioning Authorised Device VOD Content
+		and fails to play (and subject always to clause 14 below) we will either provide you with replacement VOD Content (of the same title)
+		or a refund will be issued at our sole discretion.
+	</p>
+
+	<a class="named-anchor" name="clause-10-4"></a>
+	<p>
+		<strong>10.4</strong> We will usually refund any money received from you using the same method originally used by you to pay for your purchase.
+	</p>
+	<p><a href="#top">Return to the top of page</a></p>
+
+	<a class="named-anchor" name="clause-11"></a>
+	<h2 class="h4 text-bold-max">11. NECTAR POINTS</h2>
+	<p>
+		The Nectar point collection programme is subject to the Nectar collector rules which are set out in the Nectar registration pack, brochure,
+		and are also available online at
+		<a href="http://www.nectar.com/collect/in-store/sainsburys.points">nectar.com</a>.
+		We reserve the right to alter or terminate the Nectar points offer at any time without the need for prior notice. You will earn Nectar
+		points for every full &pound;1 you spend with us on selected products in a single transaction. We reserve the right to reclaim Nectar
+		points on any refunds.
+	</p>
+	<p><a href="#top">Return to the top of page</a></p>
+
+	<a class="named-anchor" name="clause-12"></a>
+	<h2 class="h4 text-bold-max">12. SAINSBURY'S ENTERTAINMENT EVOUCHERS AND PROMOTIONS</h2>
+	<p>
+		<strong>Please note that from 3<sup>rd</sup> November 2014 if you have a Sainsbury&rsquo;s Entertainment eVoucher or Sainsbury&rsquo;s
+			Entertainment Nectar eVoucher acquired prior to the 3<sup>rd</sup> November 2014 you will not be able to use that eVoucher on
+		<a href="https://movies.sainsburysentertainment.co.uk/">movies.sainsburysentertainment.co.uk</a> or any Application. Any
+		Sainsbury&rsquo;s Entertainment eVoucher you acquire from 3<sup>rd</sup> November 2014 issued in respect of VOD Content can be used on
+		</strong><a href="https://movies.sainsburysentertainment.co.uk"><strong>movies.sainsburysentertainment.co.uk</strong></a>
+		<strong>and any transactional Application.</strong>
+	</p>
+
+	<a class="named-anchor" name="clause-12-1"></a>
+	<p>
+		<strong>12.1</strong> Sainsbury's Entertainment eVouchers issued in respect of VOD Content can <strong>only be used</strong> on
+		<a href="http://www.sainsburysentertainment.co.uk">movies.sainsburysentertainment.co.uk</a> and transactional Applications for
+		the purchase of VOD Content <strong>and not</strong> in any store or on any other website, and not on the MP3 music part of
+		www.sainsburysentertainment.co.uk.
+	</p>
+
+	<a class="named-anchor" name="clause-12-2"></a>
+	<p>
+		<strong>12.2</strong> You can redeem your Sainsbury&rsquo;s Entertainment eVoucher on our service in one of two ways, by either:
+	</p>
+	<p>
+		<strong>(a)</strong> by clicking on the &lsquo;Redeem Code&rsquo; button on the video on demand homepage and entering the code from the
+		Sainsbury&rsquo;s Entertainment eVoucher in to the box marked &lsquo;Enter Promo Code&rsquo; and then clicking on the &lsquo;Apply&rsquo;
+		button. The value of the Sainsbury&rsquo;s Entertainment eVoucher will be added to your VOD account as account credit; or
+	</p>
+	<p>
+		<strong>(b)</strong> by entering the code from the Sainsbury&rsquo;s Entertainment eVoucher in to the box marked &lsquo;Enter Promo
+		Code&rsquo; during the checkout process and then clicking on the &lsquo;Apply&rsquo; button. The value of the Sainsbury&rsquo;s
+		Entertainment eVoucher will then be added to your VOD account as account credit and will be automatically offset against your
+		order if you click on the &ldquo;Complete Purchase&rdquo; button.
+	</p>
+
+	<a class="named-anchor" name="clause-12-3"></a>
+	<p>
+		<strong>12.3</strong> Sainsbury's Entertainment eVouchers are, and remain at all times, the property of Sainsbury&rsquo;s Supermarkets
+		Ltd. The right to use a Sainsbury's Entertainment eVoucher is personal to the original or named recipient and may not be transferred
+		without permission. It may not be copied, reproduced or published either directly or indirectly. Sainsbury's Entertainment eVouchers
+		distributed or circulated without our prior written approval are not valid and may be refused or cancelled. If you redeem or attempt
+		to redeem a Sainsbury's Entertainment eVoucher to which you are not entitled you may be committing an offence.
+	</p>
+
+	<a class="named-anchor" name="clause-12-4"></a>
+	<p>
+		<strong>12.4</strong> We reserve the right to cancel or withdraw any Sainsbury's Entertainment eVoucher or promotion at any time without
+		notice and without reason.
+	</p>
+
+	<a class="named-anchor" name="clause-12-5"></a>
+	<p>
+		<strong>12.5</strong> Unless otherwise stated a Sainsbury's Entertainment eVoucher may be used only by the named recipient, it may only
+		be used as stated on the Sainsbury's Entertainment eVoucher and not in conjunction with any other offer or evoucher (including vouchers
+		and evouchers obtained from Sainsbury's Stores or www.sainsburys.co.uk. Sainsbury's Entertainment eVouchers cannot be exchanged for
+		cash, gift vouchers or for a whole order (unless otherwise stated on the Sainsbury&rsquo;s Entertainment eVoucher).
+	</p>
+
+	<a class="named-anchor" name="clause-12-6"></a>
+	<p>
+		<strong>12.6</strong> Certain goods may not be purchased using Sainsbury's Entertainment eVouchers. These include mobile phone top-ups,
+		gift vouchers and any other items that we may from time to time exclude. Any excluded goods will not count towards any qualifying
+		condition for the use of the Sainsbury&rsquo;s Entertainment eVoucher.
+	</p>
+
+	<a class="named-anchor" name="clause-12-7"></a>
+	<p>
+		<strong>12.7</strong> When a Sainsbury's Entertainment eVoucher or other promotional offer applies to more than one VOD Content Licence,
+		the total value of the promotional offer or discount is split and shared across each applicable VOD Content Licence in the correct ratio.
+	</p>
+
+	<a class="named-anchor" name="clause-12-8"></a>
+	<p>
+		<strong>12.8</strong> We cannot give change when a Sainsbury&rsquo;s Entertainment eVoucher is used on our service however &nbsp;if your
+		total spend is less than the value of your Sainsbury&rsquo;s Entertainment eVoucher then the balance will remain on your VOD account as
+		account credit. <strong>A Sainsbury&rsquo;s Entertainment eVoucher must be used before any expiry date given on such Sainsbury&rsquo;s
+		Entertainment eVoucher.</strong>
+	</p>
+
+	<a class="named-anchor" name="clause-12-9"></a>
+	<p>
+		<strong>12.9</strong> A Sainsbury's Entertainment eVoucher cannot be used more than once.
+	</p>
+
+	<a class="named-anchor" name="clause-12-10"></a>
+	<p>
+		<strong>12.10</strong> Any other eVoucher supplied by Sainsbury's Stores or Sainsbury's websites, including www.sainsburys.co.uk, Ebooks
+		and MP3 is <strong>not accepted</strong> on our service.
+	</p>
+	<p><a href="#top">Return to the top of page</a></p>
+
+	<a class="named-anchor" name="clause-13"></a>
+	<h2 class="h4 text-bold-max">13. USE OF OUR SERVICE</h2>
+
+	<a class="named-anchor" name="clause-13"></a>
+	<p>
+		<strong>13.1 &nbsp; You may not use our service for any of the following purposes:</strong><br />
+		<ol style="list-style: lower-alpha">
+			<li>disseminating any unlawful, harassing, libellous, abusive, threatening, harmful, vulgar, obscene, or otherwise objectionable material;</li>
+			<li>
+				transmitting material that is or which encourages conduct that constitutes a criminal offence, results in civil liability or
+				otherwise breaches any relevant laws, regulations or code of practice;
+			</li>
+			<li>gaining unauthorised access to other computer systems;</li>
+			<li>interfering with any other person's use or enjoyment of our service;</li>
+			<li>breaching any laws concerning the use of public telecommunications networks;</li>
+			<li>interfering or disrupting networks or websites connected to our service;</li>
+			<li>making, transmitting or storing electronic copies of materials protected by copyright without the permission of the owner; and/or</li>
+			<li>
+				engaging in technically harmful behaviour, which includes but is not limited to: computer viruses, logic bombs, trojan horses, worms,
+				harmful components, corrupted data and other malicious software or harmful data.
+			</li>
+		</ol>
+	</p>
+	<p><a href="#top">Return to the top of page</a></p>
+
+	<a class="named-anchor" name="clause-14"></a>
+	<h2 class="h4 text-bold-max">14. OUR LIABILITY</h2>
+
+	<a class="named-anchor" name="clause-14-1"></a>
+	<p>
+		<strong>14.1</strong> The VOD Content is provided "<strong>as is</strong>", all other conditions, warranties or other terms which might have
+		effect between the you or us or be implied or incorporated into this agreement or any collateral contract, whether by statute, common law or
+		otherwise, are hereby excluded, including the implied conditions, warranties or other terms as to satisfactory quality, fitness for purpose
+		or the use of reasonable skill and care.
+	</p>
+
+	<a class="named-anchor" name="clause-14-2"></a>
+	<p>
+		<strong>14.2</strong> Our liability for losses you suffer as a result of us breaching this agreement is strictly limited to the purchase price
+		of the VOD Content Licence you purchased.
+	</p>
+
+	<a class="named-anchor" name="clause-14-3"></a>
+	<p>
+		<strong>14.3</strong> This does not include or limit in any way our liability:
+		<ol style="list-style: lower-alpha">
+			<li>For death or personal injury caused by our negligence;</li>
+			<li>Under section 2(3) of the Consumer Protection Act 1987;</li>
+			<li>For fraud or fraudulent misrepresentation; or</li>
+			<li>For any matter for which it would be illegal for us to exclude, or attempt to exclude, our liability.</li>
+		</ol>
+	</p>
+
+	<a class="named-anchor" name="clause-14-4"></a>
+	<p>
+		<strong>14.4</strong> We are not responsible for indirect losses which happen as a side effect of the main loss or damage and which are not
+		foreseeable by you and us and even if such losses result from a deliberate breach of these Terms and Conditions by us that would entitle you
+		to terminate the Contract between us, including but not limited to:<br />
+		<ol style="list-style: lower-alpha">
+			<li>Loss of income or revenue;</li>
+			<li>Loss of business;</li>
+			<li>Loss of profits or contracts;</li>
+			<li>Loss of anticipated savings; or</li>
+			<li>Loss of data.</li>
+		</ol>
+		provided that this clause 14.4 shall not prevent claims for loss of or damage to your tangible property that fall within the terms of
+		clause 14.2 or clause 14.3 or any other claims for direct financial loss that are not excluded by any of categories (a) to (e) inclusive
+		of this clause 14.4.
+	</p>
+
+	<a class="named-anchor" name="clause-14-5"></a>
+	<p>
+		<strong>14.5</strong> We will not be liable to you for any VOD Content that you find offensive or obscene irrespective of whether or not
+		it is marked up as containing explicit material. Your use of the VOD Content is at your own risk.
+	</p>
+
+	<a class="named-anchor" name="clause-14-6"></a>
+	<p>
+		<strong>14.6</strong> Although we will take all reasonable care to ensure that all descriptions and details of VOD Content appearing
+		on our service are correct at the time when the information was inputted onto the system, the information appearing on our service at
+		any time may not reflect the exact position at the moment you place an order.
+	</p>
+
+	<a class="named-anchor" name="clause-14-7"></a>
+	<p>
+		<strong>14.7</strong> We will not be liable to you in the event of any action brought against you by an artist, record company, movie
+		studio, TV company, collection society or other party in relation to your use of the VOD Content or any breach by you of any
+		intellectual property rights protecting any VOD Content.
+	</p>
+
+	<a class="named-anchor" name="clause-14-8"></a>
+	<p>
+		<strong>14.8</strong> Subject to the other provisions contained in these Terms and Conditions, our liability is limited to delivery
+		of VOD Content to the first Authorised Device on which you download or stream the VOD Content, and we shall not be deemed to be
+		liable for any transfer or access made via any further PC or other medium, including for any upgrades to your hardware or software
+		that may affect your access to the VOD Content.
+	</p>
+
+	<a class="named-anchor" name="clause-14-9"></a>
+	<p>
+		<strong>14.9</strong> WHERE YOU BUY ANY CONTENT FROM A THIRD PARTY SELLER THROUGH OUR SERVICE, THE SELLER'S INDIVIDUAL LIABILITY WILL
+		BE SET OUT IN THE SELLER'S TERMS AND CONDITIONS.
+	</p>
+
+	<a class="named-anchor" name="clause-15"></a>
+	<h2 class="h4 text-bold-max">15. WRITTEN COMMUNICATIONS</h2>
+	<p>
+		Applicable laws require that some of the information or communications we send to you should be in writing. When using our service,
+		you accept that communication with us will be mainly electronic. We will contact you by e-mail or provide you with information by
+		posting notices on our service. For contractual purposes, you agree to this electronic means of communication and you acknowledge
+		that all contracts, notices, information and other communications that we provide to you electronically comply with any legal
+		requirement that such communications be in writing. This condition does not affect your statutory rights.
+	</p>
+
+	<a class="named-anchor" name="clause-16"></a>
+	<h2 class="h4 text-bold-max">16. NOTICES</h2>
+	<p>
+		All notices given by you to us must be given to Sainsbury&rsquo;s Supermarkets Ltd by sending us an email at
+		<a href="mailto:customerservices@sainsburysentertainment.co.uk">customerservices@sainsburysentertainment.co.uk</a>.
+		We may give notice to you at the e-mail address you provide to us when placing an order, or in any of the ways specified in clause
+		15 above. Notice will be deemed received and properly served immediately when posted on our service or 24 hours after an e-mail is
+		sent. In proving the service of any notice, it will be sufficient to prove, in the case of an e-mail, that such e-mail was sent to
+		the specified e-mail address of the addressee.
+	</p>
+
+	<a class="named-anchor" name="clause-17"></a>
+	<h2 class="h4 text-bold-max">17. TRANSFER OF RIGHTS AND OBLIGATIONS</h2>
+
+	<a class="named-anchor" name="clause-17-1"></a>
+	<p>
+		<strong>17.1</strong> The Contract between you and us is binding on you and us and on our respective successors and assigns.
+	</p>
+
+	<a class="named-anchor" name="clause-17-2"></a>
+	<p>
+		<strong>17.2</strong> You may not transfer, assign, charge or otherwise dispose of a Contract, or any of your rights or obligations arising
+		under it (including for the avoidance of doubt the VOD Content Licence), without our prior written consent. We may transfer, assign,
+		charge, sub-contract or otherwise dispose of a Contract, or any of our rights or obligations arising under it (including for the
+		avoidance of doubt the VOD Content Licence), at any time during the term of the Contract.
+	</p>
+
+	<a class="named-anchor" name="clause-18"></a>
+	<h2 class="h4 text-bold-max">18. EVENTS OUTSIDE OUR CONTROL</h2>
+
+	<a class="named-anchor" name="clause-18-1"></a>
+	<p>
+		<strong>18.1</strong> We will not be liable or responsible for any failure to perform, or delay in performance of, any of our obligations
+		under a Contract that is caused by events outside our reasonable control (<strong>Force Majeure Event</strong>).
+	</p>
+
+	<a class="named-anchor" name="clause-18-2"></a>
+	<p>
+		<strong>18.2</strong> Force Majeure Event includes any act, event, non-happening, omission or accident beyond our reasonable control and
+		includes in particular (without limitation) the following:
+		<ol style="list-style: lower-alpha">
+			<li>Strikes, lock-outs or other industrial action.</li>
+			<li>
+				Civil commotion, riot, invasion, terrorist attack or threat of terrorist attack, war (whether declared or not) or threat
+				or preparation for war.
+			</li>
+			<li>Fire, explosion, storm, flood, earthquake, subsidence, epidemic or other natural disaster.</li>
+			<li>Impossibility of the use of railways, shipping, aircraft, motor transport or other means of public or private transport.</li>
+			<li>Impossibility of the use of public or private telecommunications networks including mass telecommunication failures or denial of service attacks.</li>
+			<li>The acts, decrees, legislation, regulations or restrictions of any government.</li>
+		</ol>
+	</p>
+
+	<a class="named-anchor" name="clause-18-3"></a>
+	<p>
+		<strong>18.3</strong> Our performance under any Contract is deemed to be suspended for the period that the Force Majeure Event continues,
+		and we will have an extension of time for performance for the duration of that period. We will use our reasonable endeavours to bring
+		the Force Majeure Event to a close or to find a solution by which our obligations under the Contract may be performed despite the
+		Force Majeure Event.
+	</p>
+
+	<a class="named-anchor" name="clause-19"></a>
+	<h2 class="h4 text-bold-max">19. WAIVER</h2>
+
+	<a class="named-anchor" name="clause-19-1"></a>
+	<p>
+		<strong>19.1</strong> If we fail, at any time during the term of a Contract, to insist upon strict performance of any of your obligations
+		under the Contract or any of these Terms and Conditions, or if we fail to exercise any of the rights or remedies to which we are entitled
+		under the Contract, this shall not constitute a waiver of such rights or remedies and shall not relieve you from compliance with such
+		obligations.
+	</p>
+
+	<a class="named-anchor" name="clause-19-2"></a>
+	<p>
+		<strong>19.2</strong> A waiver by us of any default shall not constitute a waiver of any subsequent default.
+	</p>
+
+	<a class="named-anchor" name="clause-19-3"></a>
+	<p>
+		<strong>19.3</strong> No waiver by us of any of these Terms and Conditions shall be effective unless it is expressly stated to be a
+		waiver and is communicated to you in writing in accordance with clause 17 above.
+	</p>
+
+	<a class="named-anchor" name="clause-20"></a>
+	<h2 class="h4 text-bold-max">20. SEVERABILITY</h2>
+	<p>
+		If any of these Terms and Conditions or any provisions of a Contract are determined by any competent authority to be invalid, unlawful
+		or unenforceable to any extent, such term, condition or provision will to that extent be severed from the remaining terms, conditions
+		and provisions which will continue to be valid to the fullest extent permitted by law.
+	</p>
+
+	<a class="named-anchor" name="clause-21"></a>
+	<h2 class="h4 text-bold-max">21. ENTIRE AGREEMENT</h2>
+
+	<a class="named-anchor" name="clause-21-1"></a>
+	<p>
+		<strong>21.1</strong> These Terms and Conditions and any document expressly referred to in them represent the entire agreement between
+		us in relation to the subject matter of any Contract and supersede any prior agreement, understanding or arrangement between us,
+		whether oral or in writing.
+	</p>
+
+	<a class="named-anchor" name="clause-21-2"></a>
+	<p>
+		<strong>21.2</strong> We each acknowledge that, in entering into a Contract, neither of us has relied on any representation, undertaking
+		or promise given by the other or be implied from anything said or written in negotiations between us prior to such Contract except as
+		expressly stated in these Terms and Conditions.
+	</p>
+
+	<a class="named-anchor" name="clause-21-3"></a>
+	<p>
+		<strong>21.3</strong> Neither of us shall have any remedy in respect of any untrue statement made by the other, whether orally or in
+		writing, prior to the date of any Contract (unless such untrue statement was made fraudulently) and the other party's only remedy
+		shall be for breach of contract as provided in these Terms and Conditions.
+	</p>
+
+	<a class="named-anchor" name="clause-22"></a>
+	<h2 class="h4 text-bold-max">22. OUR RIGHT TO VARY THESE TERMS AND CONDITIONS</h2>
+
+	<a class="named-anchor" name="clause-23-1"></a>
+	<p>
+		<strong>23.1</strong> We have the right to revise and amend these Terms and Conditions from time to time to reflect changes in market
+		conditions affecting our business, changes in technology, changes in payment methods, changes in relevant laws and regulatory
+		requirements and changes in our system's capabilities.
+	</p>
+
+	<a class="named-anchor" name="clause-23-2"></a>
+	<p>
+		<strong>23.2</strong> We reserve the right to alter these Terms and Conditions at any time at our sole discretion by posting the
+		amended Terms and Conditions on our service. In the event of your use of our service after the posting of the amended Terms and
+		Conditions this will indicate your acceptance of such amended Terms and Conditions.
+	</p>
+
+	<a class="named-anchor" name="clause-24"></a>
+	<h2 class="h4 text-bold-max">24. LAW AND JURISDICTIONS</h2>
+
+	<a class="named-anchor" name="clause-24-1"></a>
+	<p>
+		<strong>24.1</strong> Contracts for the purchase of VOD Content Licences through our service and any dispute or claim arising out
+		of or in connection with them or their subject matter or formation (including non-contractual disputes or claims) will be governed
+		by English law. Any dispute or claim arising out of or in connection with such Contracts or their formation (including
+		non-contractual disputes or claims) shall be subject to the non-exclusive jurisdiction of the courts of England and Wales.
+	</p>
+	<p>Last updated: 3rd June 2016.</p>
+	<p>&nbsp;</p>
+
+	<h2 class="h4 text-bold-max">Ofcom</h2>
+	<p>
+		Ofcom regulates the editorial content of on-demand programme services. This includes ensuring that particular rules are observed. These rules require certain material to be restricted to adults, prohibit other material (including that likely to incite hatred) altogether, and govern product placement in programmes and sponsorship of individual programmes or services. If you have complained to us and you are dissatisfied with our response, you can submit a complaint about any of these aspects of our on-demand service to Ofcom using the online complaint form at:
+		<a href="http://stakeholders.ofcom.org.uk/broadcasting/on-demand/complain">here</a>
+	</p>
+	<p>
+		Please note Ofcom is the regulator for editorial content on ODPS. Advertising within our services is regulated by the Advertising Standards Authority. You can access the ASA complaints procedures online at:
+</p>
+<p>
+
+  <a href="http://www.asa.org.uk/Complaints">http://www.asa.org.uk/Complaints</a> or by telephoning 020 7492 2222.
+</p>
+<p>
+You can also complain to the ASA by post to: Advertising Standards Authority Mid City Place 71 High Holborn London WC1V 6QT
+</p>
+<p>
+Any queries relating to matters such as technical issues, billing, installation or marketing should be made directly to us at [contact details for service provider]. Further information about Ofcom can be found at <a href="www.ofcom.org.uk">www.ofcom.org.uk</a> , and about the ASA at www.asa.org.uk
+
+
+	</p>
+	<p>&nbsp;</p>
+</div>

@@ -1,0 +1,57 @@
+{
+  "ios": {
+    "development": {
+      "apiUrl": "https://api_movie_amw.srv.dev.aws.ents.io"
+    },
+    "staging": {
+      "apiUrl": "https://www.cinemanow.com"
+    },
+    "production": {
+      "apiUrl": "https://www.cinemanow.com"
+    }
+  },
+  "android": {
+    "development": {
+      "apiUrl": "https://api_movie_amw.srv.dev.aws.ents.io"
+    },
+    "staging": {
+      "apiUrl": "https://www.cinemanow.com"
+    },
+    "production": {
+      "apiUrl": "https://www.cinemanow.com"
+    }
+  },
+  "roku": {
+    "development": {
+      "apiUrl": "https://api_movie_amw.srv.dev.aws.ents.io"
+    },
+    "staging": {
+      "apiUrl": "https://www.cinemanow.com"
+    },
+    "production": {
+      "apiUrl": "https://www.cinemanow.com"
+    }
+  },
+  "xbox": {
+    "development": {
+      "apiUrl": "https://api_movie_amw.srv.dev.aws.ents.io"
+    },
+    "staging": {
+      "apiUrl": "https://www.cinemanow.com"
+    },
+    "production": {
+      "apiUrl": "https://www.cinemanow.com"
+    }
+  },
+  "samsung": {
+    "development": {
+      "apiUrl": "https://api_movie_amw.srv.dev.aws.ents.io"
+    },
+    "staging": {
+      "apiUrl": "https://www.cinemanow.com"
+    },
+    "production": {
+      "apiUrl": "https://www.cinemanow.com"
+    }
+  }
+}

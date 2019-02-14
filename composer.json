@@ -1,0 +1,33 @@
+{
+    "name": "anobii/movie_apps_middleware",
+    "require": {
+        "php": ">=5.5.9",
+        "slim/slim": "^3.4",
+        "anobii/config": "1.0.0",
+        "anobii/rmh_api_client": "dev-endpoint-config",
+        "mashape/unirest-php": "3.*",
+        "monolog/monolog": "1.20.0",
+        "vlucas/phpdotenv": "2.3.0",
+        "ebs/api-sdk": "dev-video-elastic-queries",
+        "ebs/nectar": "1.0.1"
+    },
+    "require-dev": {
+        "mockery/mockery": "0.9.5",
+        "phpunit/phpunit": "4.1.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "MovieApps\\": "src/MovieApps"
+        }
+    },
+    "repositories": [
+        {"type": "git", "url": "https://github.com/anobii/api_sdk.git"},
+        {"type": "git", "url": "https://github.com/anobii/date-time.git"},
+        {"type": "git", "url": "https://github.com/anobii/elastic-schema.git"},
+        {"type": "git", "url": "https://github.com/anobii/pricing_models.git"},
+        {"type": "git", "url": "https://github.com/anobii/ents_elastica.git"},
+        {"type": "git", "url": "https://github.com/anobii/config.git"},
+        {"type": "git", "url": "https://github.com/anobii/nectar.git"},
+        {"type": "git", "url": "https://github.com/anobii/rmh_api_client"}
+    ]
+}
